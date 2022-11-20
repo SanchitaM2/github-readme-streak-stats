@@ -9,12 +9,17 @@
   and longest streak on your GitHub profile README
 </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+## 📃 Table of Contents
+
+- [📃 Table of Contents](#-table-of-contents)
+- [⚡ Quick setup](#-quick-setup)
+- [🔧 Options](#-options)
+- [🖌 Themes](#-themes)
+- [🖼 Theme customizations](#-theme-customizations)
+- [ℹ How these stats are calculated](#ℹ-how-these-stats-are-calculated)
+- [📤 Deploying it on your own](#-deploying-it-on-your-own)
+- [🤗 Contributing](#-contributing)
+- [🙋‍♂️ Support](#️-support)
 
 ## ⚡ Quick setup
 
